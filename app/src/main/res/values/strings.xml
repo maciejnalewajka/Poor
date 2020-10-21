@@ -2,4 +2,5 @@
     <string name="app_name" translatable="true">Poor</string>
     <string name="text" translatable="true">I am poor!</string>
     <string name="jestem" translatable="true">Jestem biedakiem!</string>
+    <string name="image">image</string>
 </resources>
