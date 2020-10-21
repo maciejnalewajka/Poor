@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.poor">
+    package="com.nalewajka.poor">
 
     <dist:module dist:instant="true" />
 

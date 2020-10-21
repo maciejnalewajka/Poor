@@ -1,4 +1,4 @@
-package com.poor;
+package com.nalewajka.poor;
 
 import android.graphics.drawable.AnimationDrawable;
 import androidx.constraintlayout.widget.ConstraintLayout;

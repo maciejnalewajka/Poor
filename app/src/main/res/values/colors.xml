@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-    <resources>
-
+<resources>
     <color name="colorPrimary">#feffdb</color>
-
     <color name="colorPrimaryDark">#000000</color>
-
     <color name="colorAccent">#969073</color>
-
     <color name="colorAccentDark">#30261A</color>
-
 </resources>
